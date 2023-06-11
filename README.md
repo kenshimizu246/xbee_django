@@ -1,1 +1,31 @@
 # xbee_django
+
+how to run,
+
+python manage.py runserver 0:8000
+
+see
+https://docs.djangoproject.com/en/3.2/intro/tutorial01/
+
+need to copy model files:
+model_data/yolov3/yolov3.weights
+model_data/yolov3/coco.names
+model_data/yolov3/yolov3.cfg
+model_data/haarcascades/haarcascade_smile.xml
+model_data/haarcascades/haarcascade_frontalface_alt_tree.xml
+model_data/haarcascades/haarcascade_frontalface_default.xml
+model_data/haarcascades/haarcascade_eye.xml
+model_data/haarcascades/haarcascade_righteye_2splits.xml
+model_data/haarcascades/haarcascade_lowerbody.xml
+model_data/haarcascades/haarcascade_frontalface_alt.xml
+model_data/haarcascades/haarcascade_fullbody.xml
+model_data/haarcascades/haarcascade_frontalcatface_extended.xml
+model_data/haarcascades/haarcascade_frontalcatface.xml
+model_data/haarcascades/haarcascade_russian_plate_number.xml
+model_data/haarcascades/haarcascade_lefteye_2splits.xml
+model_data/haarcascades/haarcascade_upperbody.xml
+model_data/haarcascades/haarcascade_profileface.xml
+model_data/haarcascades/haarcascade_licence_plate_rus_16stages.xml
+model_data/haarcascades/haarcascade_eye_tree_eyeglasses.xml
+model_data/haarcascades/haarcascade_frontalface_alt2.xml
+

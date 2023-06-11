@@ -1,0 +1,7 @@
+
+*.pyc
+data/*
+data0/*
+logs/*
+models/*
+model_data/*
